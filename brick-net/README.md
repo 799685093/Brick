@@ -49,7 +49,7 @@ dependencyResolutionManagement {
 // app/build.gradle.kts
 dependencies {
     val brickVersion = "1.0.0"
-    implementation("com.github.ail36413.Brick:brick-net:$brickVersion")
+    implementation("com.github.799685093.Brick:brick-net:$brickVersion")
 }
 ```
 
@@ -663,7 +663,7 @@ brick-net 已内置 `consumer-rules.pro`，引入后自动生效，无需额外�
 ## License
 
 ```
-Copyright 2024 ail36413
+Copyright 2024 799685093
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
