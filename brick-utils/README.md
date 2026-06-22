@@ -1,6 +1,6 @@
 # brick-utils
 
-[![](https://jitpack.io/v/ail36413/Brick.svg)](https://jitpack.io/#ail36413/Brick)
+[![](https://jitpack.io/v/799685093/Brick.svg)](https://jitpack.io/#799685093/Brick)
 
 Android 通用工具扩展库，为日常开发提供高频 Kotlin 扩展函数，减少样板代码。
 
