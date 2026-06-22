@@ -1,6 +1,6 @@
 # brick-ui
 
-[![](https://jitpack.io/v/ail36413/Brick.svg)](https://jitpack.io/#ail36413/Brick)
+[![](https://jitpack.io/v/799685093/Brick.svg)](https://jitpack.io/#799685093/Brick)
 
 Android 通用 UI 组件库，提供常用自定义 View、RecyclerView 适配器和对话框工具。
 
