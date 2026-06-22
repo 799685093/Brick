@@ -17,7 +17,7 @@
 
 ```kotlin
 val brickVersion = "1.0.0"
-implementation("com.github.ail36413.Brick:brick-permission:$brickVersion")
+implementation("com.github.799685093.Brick:brick-permission:$brickVersion")
 ```
 
 请将版本号替换为 JitPack Release 页面的最新版本。
