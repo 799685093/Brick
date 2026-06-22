@@ -12,14 +12,14 @@ afterEvaluate {
             release(MavenPublication) {
                 from components.release
 
-                groupId = 'com.github.ail36413.Brick'
+                groupId = 'com.github.799685093.Brick'
                 artifactId = project.name
                 version = project.findProperty('VERSION_NAME') ?: '1.0.0'
 
                 pom {
                     name = project.name
                     description = "Brick - ${project.name}"
-                    url = 'https://github.com/ail36413/Brick'
+                    url = 'https://github.com/799685093/Brick'
 
                     licenses {
                         license {
@@ -30,14 +30,14 @@ afterEvaluate {
 
                     developers {
                         developer {
-                            id = 'ail36413'
-                            name = 'ail36413'
+                            id = '799685093'
+                            name = '799685093'
                         }
                     }
 
                     scm {
-                        connection = 'scm:git:https://github.com/ail36413/Brick.git'
-                        url = 'https://github.com/ail36413/Brick'
+                        connection = 'scm:git:https://github.com/799685093/Brick.git'
+                        url = 'https://github.com/799685093/Brick'
                     }
                 }
             }
