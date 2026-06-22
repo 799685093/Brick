@@ -31,7 +31,7 @@ Android 应用启动优化模块，支持按优先级分级初始化，有效缩
 
 ```kotlin
 val brickVersion = "1.0.0"
-implementation("com.github.ail36413.Brick:brick-startup:$brickVersion")
+implementation("com.github.799685093.Brick:brick-startup:$brickVersion")
 ```
 
 请将版本号替换为 JitPack Release 页面的最新版本。
