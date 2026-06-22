@@ -8,7 +8,7 @@ Android 架构基础库，提供 MVVM + MVI 双模式支持，基于 AndroidX Vi
 
 ```kotlin
 val brickVersion = "1.0.0"
-implementation("com.github.ail36413.Brick:brick-arch:$brickVersion")
+implementation("com.github.799685093.Brick:brick-arch:$brickVersion")
 ```
 
 请将版本号替换为 JitPack Release 页面的最新版本。
@@ -569,7 +569,7 @@ class MyViewModelTest {
 ## License
 
 ```
-Copyright 2024 ail36413
+Copyright 2024 799685093
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
