@@ -8,7 +8,7 @@
 
 ```kotlin
 val brickVersion = "1.0.0"
-implementation("com.github.ail36413.Brick:brick-image:$brickVersion")
+implementation("com.github.799685093.Brick:brick-image:$brickVersion")
 ```
 
 请将版本号替换为 JitPack Release 页面的最新版本。
@@ -179,7 +179,7 @@ imageView.loadImage("https://example.com/animation.gif")
 ## License
 
 ```
-Copyright 2024 ail36413
+Copyright 2024 799685093
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
