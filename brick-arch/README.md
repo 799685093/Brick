@@ -1,6 +1,6 @@
 # brick-arch
 
-[![](https://jitpack.io/v/ail36413/Brick.svg)](https://jitpack.io/#ail36413/Brick)
+[![](https://jitpack.io/v/799685093/Brick.svg)](https://jitpack.io/#799685093/Brick)
 
 Android 架构基础库，提供 MVVM + MVI 双模式支持，基于 AndroidX ViewModel / Lifecycle / Flow 构建。
 
