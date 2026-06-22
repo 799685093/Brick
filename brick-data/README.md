@@ -1,5 +1,7 @@
 # brick-data
 
+[![](https://jitpack.io/v/799685093/Brick.svg)](https://jitpack.io/#799685093/Brick)
+
 基于 [Room](https://developer.android.com/training/data-storage/room) 的数据库封装模块，提供通用 Dao 基类、DSL 构建器、迁移助手和结果包装。
 
 ## 特性
