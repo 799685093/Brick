@@ -1,5 +1,7 @@
 # brick-store
 
+[![](https://jitpack.io/v/799685093/Brick.svg)](https://jitpack.io/#799685093/Brick)
+
 基于腾讯 [MMKV](https://github.com/Tencent/MMKV) 的高性能键值存储模块，提供与 `SpDelegate` 一致的属性委托 API，但性能远超 SharedPreferences。
 
 ## 特性
