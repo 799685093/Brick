@@ -1,5 +1,7 @@
 # brick-log
 
+[![](https://jitpack.io/v/799685093/Brick.svg)](https://jitpack.io/#799685093/Brick)
+
 基于 [Timber](https://github.com/JakeWharton/timber) 的增强日志模块，提供文件日志、崩溃收集、JSON 格式化等企业级能力。
 
 ## 特性
