@@ -1,5 +1,7 @@
 # brick-permission
 
+[![](https://jitpack.io/v/799685093/Brick.svg)](https://jitpack.io/#799685093/Brick)
+
 基于协程的 Android 运行时权限请求库，无需覆写 `onRequestPermissionsResult`，一行代码搞定权限申请。
 
 ## 特性
