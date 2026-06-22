@@ -1,6 +1,6 @@
 # Brick
 
-[![](https://jitpack.io/v/799685093/Brick.svg)](https://jitpack.io/#799685093/Brick
+[![](https://jitpack.io/v/799685093/Brick.svg)](https://jitpack.io/#799685093/Brick)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![API](https://img.shields.io/badge/API-24%2B-brightgreen.svg)](https://android-arsenal.com/api?level=24)
 
