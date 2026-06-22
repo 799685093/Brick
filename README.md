@@ -1,7 +1,6 @@
 # Brick
 
-[![](https://jitpack.io/v/ail36413/Brick.svg)](https://jitpack.io/#ail36413/Brick)
-[![CI](https://github.com/ail36413/Brick/actions/workflows/ci.yml/badge.svg)](https://github.com/ail36413/Brick/actions/workflows/ci.yml)
+[![](https://jitpack.io/v/799685093/Brick.svg)](https://jitpack.io/#799685093/Brick
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![API](https://img.shields.io/badge/API-24%2B-brightgreen.svg)](https://android-arsenal.com/api?level=24)
 
@@ -65,19 +64,19 @@ dependencyResolutionManagement {
 dependencies {
     // 全部引入（请替换为 JitPack Release 页面的最新版本号）
     val brickVersion = "1.0.0"
-    implementation("com.github.ail36413.Brick:brick-net:$brickVersion")
-    implementation("com.github.ail36413.Brick:brick-utils:$brickVersion")
-    implementation("com.github.ail36413.Brick:brick-ui:$brickVersion")
-    implementation("com.github.ail36413.Brick:brick-image:$brickVersion")
-    implementation("com.github.ail36413.Brick:brick-arch:$brickVersion")
-    implementation("com.github.ail36413.Brick:brick-store:$brickVersion")
-    implementation("com.github.ail36413.Brick:brick-log:$brickVersion")
-    implementation("com.github.ail36413.Brick:brick-data:$brickVersion")
-    implementation("com.github.ail36413.Brick:brick-permission:$brickVersion")
-    implementation("com.github.ail36413.Brick:brick-startup:$brickVersion")
+    implementation("com.github.799685093.Brick:brick-net:$brickVersion")
+    implementation("com.github.799685093.Brick:brick-utils:$brickVersion")
+    implementation("com.github.799685093.Brick:brick-ui:$brickVersion")
+    implementation("com.github.799685093.Brick:brick-image:$brickVersion")
+    implementation("com.github.799685093.Brick:brick-arch:$brickVersion")
+    implementation("com.github.799685093.Brick:brick-store:$brickVersion")
+    implementation("com.github.799685093.Brick:brick-log:$brickVersion")
+    implementation("com.github.799685093.Brick:brick-data:$brickVersion")
+    implementation("com.github.799685093.Brick:brick-permission:$brickVersion")
+    implementation("com.github.799685093.Brick:brick-startup:$brickVersion")
 
     // 或按需引入单个模块
-    implementation("com.github.ail36413.Brick:brick-net:$brickVersion")
+    implementation("com.github.799685093.Brick:brick-net:$brickVersion")
 }
 ```
 
@@ -460,7 +459,7 @@ Brick/
 ## License
 
 ```
-Copyright 2024 ail36413
+Copyright 2026 799685093
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
