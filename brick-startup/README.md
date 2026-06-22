@@ -1,6 +1,7 @@
 # brick-startup
 
 Android 应用启动优化模块，支持按优先级分级初始化，有效缩短 `Application.onCreate()` 的同步阻塞时间。
+[![](https://jitpack.io/v/799685093/Brick.svg)](https://jitpack.io/#799685093/Brick)
 
 ## 设计背景
 
